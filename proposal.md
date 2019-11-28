@@ -10,7 +10,7 @@
 
 * [[M]]使用的方法数据：文献综述、科学计量分析、系统思维框架等。
 * [[A]]产出的专业建构物： 可视化网络分析图 ；文献综述主要期刊, 主题, 作者列表；综述研究走向/空缺评估。
-* [[C]]立基的概念出发点：
+* [[C]]立基的概念出发点：思维框架
 
 
 ## 一丶选题意义
@@ -39,9 +39,7 @@
 
 ### 关键词
 
-关键词：A; B; C; D; E
-
-A：教育和教育研究;
+关键词：教育和教育研究;教育学 人工智能 大数据 机器学习
 
 >  关键词是供检索用的主题词条，应采用能覆盖设计（论文）主要内容的通用技术词条（参照相应的技术术语标准）。关键词一般为3～5个，按词条的外延层次排列（外延大的排在前面）。
 
@@ -81,41 +79,3 @@ A：教育和教育研究;
 
 > 工具建议：[Mermaidjs](https://mermaidjs.github.io/mermaid-live-editor/)可下载SVG
  
-<div class="mermaid" style="background-color:lightgreen;"> 
-gantt
-       dateFormat  YYYY-MM-DD
-       title 顶点课程进度安排-甘特图
-
-       section 顶点课程进度安排
-       已完成选题                :done,    des1, 2019-10-20,2019-11-27
-       提案文档报告proposal      :active,  des2, 2019-11-27, 7d
-       文档写作-期中前                  :         des3, after des2, 34d
-       ◆期中进度审核打分         :         des4, after des3, 1d
-       研究/放假活动             :         des5, after des4, 35d
-       文档写作-期中后         :         des6, after des5, 56d
-       ◆文档写作-全文提交(TBA待定):crit, des7, after des6, 7d
-
-       section 关键任务(放假前)
-       选题完成                  :crit, done, after des1, 7d
-       Github提案文档proposal    :crit, active, 2019-11-27,6d
-       ◆研究/设计发问-方法-数据关系查核  :crit, 1d
-       (1章)研究/设计发问       :crit, active, 2019-12-04,6d
-       ◆方法-数据 可操作性完成查核       :crit, 1d
-       (1章)方法-数据           :crit, active, 2019-12-11,13d
-       ◆文献回顾-预期贡献/创新完成查核     :crit, 1d
-       (1章)文献回顾           :crit, active, 2019-12-25,13d
-       ◆期中进度审核打分                   :1d
-
-       section 研究/放假活动
-       研究                     :crit, after des4, 35d
-       放假                     :      vac1, after des4, 35d
-
-       section 文档写作(放假后)
-       ◆(1节)主要发现              : finding1, after des5, 14d
-       ◆(1节)主要发现              : finding2, after finding1, 14d
-       ◆(1节)主要发现              : finding3, after finding2, 14d
-       ◆(全文)论文文稿互审             : peerreview, after finding3, 14d
-       ◆文档写作-全文提交(TBA待定):crit, des7, after peerreview, 7d
-
-
-</div>
