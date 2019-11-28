@@ -10,24 +10,19 @@
 
 * [[M]]使用的方法数据：文献综述、科学计量分析、系统思维框架等。
 * [[A]]产出的专业建构物： 可视化网络分析图 ；文献综述主要期刊, 主题, 作者列表；综述研究走向/空缺评估。
-* [[C]]立基的概念出发点：传统教育、
+* [[C]]立基的概念出发点：
 
 
 ## 一丶选题意义
 ### 1丶理论意义
 
 (一句话总结[[C]]立基的概念出发点如何能因本研究而有所新应用或新知识的产出，特别是基於[[M]]使用的方法数据)
-
-通过对WOS数据库中收集1041篇相关文章进行科学计量分析，综述大数据人工智在教育行业带来了什么样的优势，这些对于传统的教育是否有参考价值？
-
+通过对1965年以来在WOS数据库中收集1041篇相关文章进行科学计量分析，利用可视化工具（VOS）对文献主要学科和关键字进行梳理。
 
 
 ### 2丶现实意义
-
 (一句话总结[[A]]产出的专业建构物如何能因本研究而有所新的现实意义，特别是基於[[M]]使用的方法数据)
-
-
-
+大数据和人工智能如何影响教育和教育研究，基于大数据和人工智能在教育和教育研究的综述性文章还是鲜有，通过梳理分析相关文献并对未来研究进行探讨对于教育学者、研究人员和决策者具有一定参考价值。
 
 > 说明：意义主要是指外部重要性(external centrality)，假定真的做完了, 对谁有什麽样的启发及启示？对公司省成本？对公司增加营收？对领导增加全局观的决策方法？对学者及政策制定者总结最新知识？
 
@@ -37,15 +32,17 @@
 
 ### 摘要
 > 关于大数据人工智能对教育和教育研究越来越成为机构和学校的重点关注的研究对象。为了系统回顾大数据和人工智能在教育和教育研究领域的文献，本文将通过对1965年以来在WOS文库中收录的1041篇核心文章进行科学计量分析，利用可视化工具（VOS）对文献主要学科和关键字进行梳理。主要是研究并探讨大数据和人工智能在该领域的发展趋势，包括主要学科和关键词，以及综述研究走向和评估研究空缺等。最后，本文将通过提供的相关数据分析结果以及可视化内容，为教育学者、研究人员和决策者提供一个具有一定参考价值的文献综述，以了解人工智能和大数据在教育和教育研究中是如何发展以及对未来研究方向进行探讨。
-### Abstract
 
+
+### Abstract
 > The research on big data artificial intelligence on education and education has increasingly become the focus of institutions and schools. In order to systematically review the literature of big data and artificial intelligence in the field of education and education research, this paper will conduct scientific econometric analysis on 1041 core articles collected in WOS library since 1965, and use the visualization tool (VOS) to summarize the main disciplines and keywords of the literature. It mainly studies and discusses the development trend of big data and artificial intelligence in this field, including major disciplines and key words, as well as the review of research trends and evaluation of research gaps. Finally, this paper will provide a literature review with certain reference value for educational scholars, researchers and decision-makers through relevant data analysis results and visual content, so as to understand how artificial intelligence and big data develop in education and education research and discuss the future research direction.
 
 ### 关键词
 
 关键词：A; B; C; D; E
+
 A：教育和教育研究;
-B:
+
 >  关键词是供检索用的主题词条，应采用能覆盖设计（论文）主要内容的通用技术词条（参照相应的技术术语标准）。关键词一般为3～5个，按词条的外延层次排列（外延大的排在前面）。
 
 
