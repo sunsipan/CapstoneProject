@@ -1,7 +1,7 @@
 
 # 顶点课程报告提纲
 
-* 论文题目：教育学的人工智能和大数据探讨：基于Web of Science 数据库的系统文献回顾
+* 论文题目：教育学的人工智能和大数据探讨：基于Web of Science 数据库的系统文献回顾（Artificial intelligence and big data in pedagogy: systematic literature review based on Web of Science database）
 * 姓名: 孙思盼
 * 序号: E2
 <!--more-->
