@@ -48,6 +48,9 @@
 ## 三丶文献综述
 
 ### 1丶[[C]]理论及[[A]]专业建构物演进过程及[[M]]使用的方法数据
+为了检索教育和教育研究在大数据、人工智能和机器学习领域的应用及发展，本文从WOS平台收集文献，部署了如下查询：
+TS = ( AI OR "Artificial Intelligence" OR "machine learning" OR "Big Data" ) AND SU="Education & Educational Research"
+时间跨度: 所有年份（截至时间2019-11-04）. 索引: SCI-EXPANDED, SSCI, A&HCI, ESCI.研究
 
 > 1-2句话总结3-4来源内容
 
